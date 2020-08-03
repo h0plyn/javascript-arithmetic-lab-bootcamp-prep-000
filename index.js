@@ -13,3 +13,13 @@ function multiple() {
 function divide() {
   return 4 / 2;
 };
+
+function add(a, b) {
+  return a + b;
+};
+
+function subtract(a, b) {
+  return b - a;
+};
+
+function multi
