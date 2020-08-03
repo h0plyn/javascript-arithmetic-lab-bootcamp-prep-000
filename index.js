@@ -9,3 +9,7 @@ function subtract() {
 function multiple() {
   return 2 * 2;
 };
+
+function divide() {
+  return 4 / 2;
+};
